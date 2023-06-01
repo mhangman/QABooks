@@ -11,6 +11,11 @@ Books:
   * Test Automation in the Real World: Practical Lessons for Automated Testing, Greg Paskal
   * The Way of the Web Tester, Jonathan Rasmusson
   * How Google Tests Software, James A. Whittaker, Jason A. Joseph, Jeff Carollo
+  * Delivering Happiness, Tony Hsieh
+  * The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win, Gene Kim, Kevin Behr, George Spafford
+  * Radical Candor, Kim Scott
+  * Outliers, Malcolm Gladwell
+  * The Checklist Manifesto: How to Get Things Right, Atul Gawande
 
 
 Some Blogs, Mail Lists, Web Sites for QA
